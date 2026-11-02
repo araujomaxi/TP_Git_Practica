@@ -6,3 +6,9 @@ Materia: Programacion II
 
 ## Objetivo
 Practicar el uso de GIt para controlar las versiones de un proyecto
+
+## Herramientas utilizadas
+
+-Git
+-Visual Studio Code
+-Powershell
